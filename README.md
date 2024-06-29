@@ -1,9 +1,26 @@
 # I've joined the #100DaysOfCode Challenge
 
+Using the #100DaysOfCode challenge to motivate me to start and complete some educational software projects that I've been wanting to do for a while. In particular, I have 3 specific ideas:
+- Attendance Taker - A new web based application to streamline taking attendance for my classroom and online courses.
+- Feedback Helper - A port of my TKinter app to the web that makes it easier for educators to store and retrieve common feedback that they use when grading assignments.
+- Blackboard Rezipper - A port of my command line app to the web that unzips and restructures the assignment zip files an educator downloads from Blackboard.
+
+My goals for this effort include:
+- Creating useful EduTools that can benefit myself as well as my colleagues.
+- Contribute open source tooling to the educational community which can be used and enhanced by others.
+- Do development "in public" and see how benefits and drawbacks of this process.
+- Continue to improve my skills as a developer in Python, web development, and other areas.
+
+You can see my efforts here: [Log](r1-log.md)
+
+This project has been forked from [https://github.com/kallaway/100-days-of-code]. The original Rules, FAQ, and Resorces from that original repo are below.
+
+***
+
 ## Contents
 
+- [Log - click here to see my progress](r1-log.md)
 - [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
 - [FAQ](FAQ.md)
 - [Resources](resources.md)
 
